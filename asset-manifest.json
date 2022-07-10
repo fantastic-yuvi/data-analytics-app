@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/data-analytics-app/static/css/main.c2080e96.css",
+    "main.js": "/data-analytics-app/static/js/main.97d254e4.js",
+    "static/media/laptop.jpg": "/data-analytics-app/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/data-analytics-app/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/data-analytics-app/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/data-analytics-app/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/data-analytics-app/index.html",
+    "main.c2080e96.css.map": "/data-analytics-app/static/css/main.c2080e96.css.map",
+    "main.97d254e4.js.map": "/data-analytics-app/static/js/main.97d254e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2080e96.css",
+    "static/js/main.97d254e4.js"
+  ]
+}
